@@ -1,0 +1,100 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   22.21.13.8480
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Max\Desktop\Loderunner V2\Game\LodeRunner_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.456253 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1490 -> priority: 1 
+  Thread -> id: 2410 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.373104 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.232116 ms (FindLiveObjects: 0.025264 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.187114 ms  DeleteObjects: 0.003947 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.348174 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.268433 ms (FindLiveObjects: 0.033948 ms CreateObjectMapping: 0.013026 ms MarkObjects: 0.210799 ms  DeleteObjects: 0.009868 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.428309 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 336.
+Total: 0.234879 ms (FindLiveObjects: 0.032764 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.184350 ms  DeleteObjects: 0.003552 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.366728 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1491.
+Total: 0.481602 ms (FindLiveObjects: 0.076187 ms CreateObjectMapping: 0.023685 ms MarkObjects: 0.333963 ms  DeleteObjects: 0.047370 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.863725 ms
+
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 0.416862 ms (FindLiveObjects: 0.041054 ms CreateObjectMapping: 0.016184 ms MarkObjects: 0.285013 ms  DeleteObjects: 0.074214 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.450416 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1494.
+Total: 0.555421 ms (FindLiveObjects: 0.076977 ms CreateObjectMapping: 0.023685 ms MarkObjects: 0.375807 ms  DeleteObjects: 0.077766 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.927281 ms
+
+Unloading 130 unused Assets to reduce memory usage. Loaded Objects now: 402.
+Total: 0.411335 ms (FindLiveObjects: 0.042238 ms CreateObjectMapping: 0.016579 ms MarkObjects: 0.280276 ms  DeleteObjects: 0.071845 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.740167 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 402.
+Total: 0.335937 ms (FindLiveObjects: 0.037107 ms CreateObjectMapping: 0.013816 ms MarkObjects: 0.280276 ms  DeleteObjects: 0.003947 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.355674 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.322120 ms (FindLiveObjects: 0.026053 ms CreateObjectMapping: 0.012632 ms MarkObjects: 0.275144 ms  DeleteObjects: 0.007500 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.302382 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 351.
+Total: 0.298040 ms (FindLiveObjects: 0.024080 ms CreateObjectMapping: 0.013421 ms MarkObjects: 0.256196 ms  DeleteObjects: 0.003552 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.262907 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.358438 ms (FindLiveObjects: 0.033554 ms CreateObjectMapping: 0.013421 ms MarkObjects: 0.306725 ms  DeleteObjects: 0.003947 ms)
+
